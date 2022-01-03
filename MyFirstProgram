@@ -1,0 +1,4 @@
+number = int(input("Enter the number of which the user wants:")
+print("The multiplication table of:",number)
+for count in range i(1,11):
+   print(number,'X',count,'=',number x count)
